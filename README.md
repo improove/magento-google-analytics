@@ -23,3 +23,7 @@ This is important when using multiple stores with different currencies and the s
         modman magento-google-analytics clone https://github.com/improove/magento-google-analytics.git
 
 3. Make sure you've cleaned Magento's cache to enable the new module; hit refresh
+
+## Feedback & questions
+
+Found a bug or missing a feature? Don't hesitate to create a new issue here on GitHub. Or contact me [directly](https://github.com/ptz0n).
