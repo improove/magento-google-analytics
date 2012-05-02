@@ -26,4 +26,4 @@ This is important when using multiple stores with different currencies and the s
 
 ## Feedback & questions
 
-Found a bug or missing a feature? Don't hesitate to create a new issue here on GitHub. Or contact me [directly](https://github.com/ptz0n).
+Found a bug or missing a feature? Don't hesitate to create a new issue here on [GitHub](https://github.com/improove/magento-google-analytics). Or contact me [directly](https://github.com/ptz0n).
