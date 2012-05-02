@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Improove_GoogleAnalytics>
+            <version>0.1.0</version>
+        </Improove_GoogleAnalytics>
+    </modules>
+    <global>
+        <blocks>
+            <googleanalytics>
+                <rewrite>
+                    <ga>Improove_GoogleAnalytics_Block_Ga</ga>
+                </rewrite>
+            </googleanalytics>
+        </blocks>
+    </global>
+</config>
