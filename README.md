@@ -8,6 +8,11 @@ This is important when using multiple stores with different currencies and the s
 
 ## Changelog
 
+* 0.9.1
+
+    * Compatible with Magento CE 1.4.1.1+
+    * Optimized Google Analytics asynchronous GA tracking snippet.
+
 * 0.9.0
 
     * First public release. Compatible with Magento CE 1.4.x.
