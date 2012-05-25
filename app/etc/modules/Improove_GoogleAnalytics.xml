@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<config>
+	<modules>
+		<Improove_GoogleAnalytics>
+			<active>true</active>
+			<codePool>community</codePool>
+		</Improove_GoogleAnalytics>
+	</modules>
+</config>
